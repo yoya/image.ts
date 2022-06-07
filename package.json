@@ -1,0 +1,26 @@
+{
+  "name": "image.ts",
+  "version": "1.0.0",
+  "description": "Image Processing with TypeScript",
+  "main": "image.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yoya/image.ts.git"
+  },
+  "keywords": [
+    "Image",
+    "TypeScript"
+  ],
+  "author": "yoya@awm.jp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoya/image.ts/issues"
+  },
+  "homepage": "https://github.com/yoya/image.ts#readme"
+}
